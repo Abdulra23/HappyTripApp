@@ -1,0 +1,32 @@
+[
+  {
+    "passenger_id": 12,
+    "first_name": "Abdul",
+    "last_name": "Raheem",
+    "EmailId": "abdulraheem7794@gmail.com",
+    "phone": "7075874195",
+    "age": 22,
+    "gender": "Male"
+   
+  },
+  {
+    "passenger_id": 14,
+    "first_name": "Ravi",
+    "last_name": "Raj",
+    "EmailId": "RaviRaj8@gmail.com",
+    "phone": "7610185663",
+    "age": 22,
+    "gender": "Male"
+  },
+  {
+    "passenger_id": 13,
+    "first_name": "Vamsi",
+    "last_name": "Krishna",
+    "email": "VamsiKrishna8@gmail.com",
+    "phone": "83154315663",
+    "age": 22,
+    "gender": "Male"
+  }
+ 
+  
+]

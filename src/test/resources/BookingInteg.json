@@ -1,0 +1,13 @@
+[
+  {
+    "bookingId": "01EFR",
+    "firstName": "Abdul",
+    "lastName": "Raheem",
+    "flightName": "INDIGO",
+    "flightId": "AI16H",
+    "departureLocation": "Hydrabad",
+    "departureDate": "2021-08-30",
+    "arrivalLocation": "Banglore",
+    "arrivalDate": "2021-08-30" 
+  }
+]

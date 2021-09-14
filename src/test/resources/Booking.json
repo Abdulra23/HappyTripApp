@@ -1,0 +1,35 @@
+[
+  {
+    "bookingId": "01EFR",
+    "firstName": "Abdul",
+    "lastName": "Raheem",
+    "flightName": "INDIGO",
+    "flightId": "AI16H",
+    "departureLocation": "Hydrabad",
+    "departureDate": "2021-08-30",
+    "arrivalLocation": "Banglore",
+    "arrivalDate": "2021-08-30" 
+  },
+  {
+    "bookingId": "01EFR",
+    "firstName": "Ravi",
+    "lastName": "Raj",
+    "flightName": "AIR INDIA",
+    "flightId": "IT25H",
+    "departureLocation": "Mumbai",
+    "departureDate": "2021-08-31",
+    "arrivalLocation": "Banglore",
+    "arrivalDate": "2021-08-31"
+  },
+  {
+    "bookingId": "02ER1",
+    "firstName": "Vamshi",
+    "lastName": "Krishna",
+    "flightName": "SPICEJET",
+    "flightId": "RF12E",
+    "departureLocation": "Mumbai",
+    "departureDate": "2021-09-20",
+    "arrivalLocation": "Banglore",
+    "arrivalDate": "2021-09-20"
+  }
+]
