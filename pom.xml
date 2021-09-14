@@ -34,9 +34,9 @@
 	</distributionManagement>
 	
 	<scm>
-		<connection>scm:git:git@github.com:ravirajphophale/HappyTripApp.git</connection>
-		<developerConnection>scm:git:git@github.com:ravirajphophale/HappyTripApp.git</developerConnection>
-		<url>git@github.com:ravirajphophale/HappyTripApp.git</url>
+		<connection>scm:git@github.com:Abdulra23/HappyTripApp.git</connection>
+		<developerConnection>scm:git@github.com:Abdulra23/HappyTripApp.git</developerConnection>
+		<url>git@github.com:Abdulra23/HappyTripApp.git</url>
 		<tag>v0.0.1</tag>
 	</scm>
 	<dependencies>
